@@ -57,6 +57,8 @@ Arduino 智慧檯燈專案，具備多種互動控制功能。
 | 14 | 切換時區 |
 | 15 | 設定日期與時間 |
 
+## Demo
+Demo link: https://www.youtube.com/watch?v=SHSKQIdosGI&t=8s
 ## 授權
 
 MIT License
