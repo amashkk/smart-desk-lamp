@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Arduino
+*.elf
+*.hex
+*.bin
+
+# IDE
+.vscode/
+*.swp
+*.swo
